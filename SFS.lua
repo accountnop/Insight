@@ -3,7 +3,6 @@ Hello, I'm TERES Owner of the Script,
 if you want to report a bug or report a game update, 
 join our Discord (https://discord.gg/zBVtjPAzhV or dsc.gg/insi-ght) and send a message at A Channel I Left For You.
 
-Don't Try Any Kind Of Reverse Engineering (or if you want too fuck it, I don't care)
 
 Thank you very much for reading
 
